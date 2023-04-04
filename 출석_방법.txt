@@ -12,7 +12,7 @@ cmd(명령 프롬프트)창 열기
 
 [환경설정] : 저번에 진행했던 분들은 생략하셔도 됩니다!
 git config --global user.name 깃허브아이디
-git config -- global user.email 깃허브이메일
+git config --global user.email 깃허브이메일
 
 폴더 하나 만들고
 >cd 폴더 위치 복붙
